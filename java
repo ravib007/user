@@ -124,4 +124,4 @@ public class Demo {
 }
 
 
-"This is java code"
+"This is code"
